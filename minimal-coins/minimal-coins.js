@@ -1,0 +1,3 @@
+function minimalCoins(coins, amt) {
+
+}
