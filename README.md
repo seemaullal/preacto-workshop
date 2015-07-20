@@ -5,7 +5,7 @@ A workshop created to test conceptual thinking and knowledge of data structures 
   - data structures
 and more. It is good preparation for technical interviews. Solutions and tests are in Javascript. 
 
-More detailed solutions can be found here:
+**More detailed solutions can be found at the links below:**
 
 Minimal Coin Change:
 https://gist.github.com/seemaullal/86ea817cc84e913fd4e9
