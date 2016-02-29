@@ -1,6 +1,6 @@
 A workshop created to test conceptual thinking and knowledge of data structures and algorithms. This workshop covers several topics including
   - dynamic programming
-  - recurion
+  - recursion
   - greedy algorithms
   - data structures
 and more. It is good preparation for technical interviews. Solutions and tests are in Javascript. 
